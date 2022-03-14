@@ -1,6 +1,6 @@
 # Nuk-Web-Pages-Programming-Week3
 # Project describe
-The website include the input elements and some layout connect the outside website counterfeit the travel form website achieve the project assign by professor.
+The website include the input elements and some layout connect the outside website counterfeit the travel form website achieve the project assign by professor I-hsien Ting.
 # Learning Catalog
 Study how to use CSS contral the layout of the website
 >note of CSS:
