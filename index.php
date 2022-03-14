@@ -47,8 +47,8 @@
                 行程內容
                 <hr>
                 <center>
-                    <a href="https://bunnyann.com/kentingplay/" target="new"><img src="/img/pic1.jpg" height="25%" width="25%"></a>
-                    <a href="/HELLO.pdf" target="new"><img src="/img/pic2.jpg" height="25%" width="25%" ></a>
+                    <a href="https://bunnyann.com/kentingplay/" target="new"><img src="/img/pic1.jpg" height="25%" width="25%" style="color:White;   border: 2px white solid;"></a>
+                    <a href="/HELLO.pdf" target="new"><img src="/img/pic2.jpg" height="25%" width="25%" style="color:White;   border: 2px white solid;"></a>
                 </center>
                 <hr>
                 <!--
@@ -116,7 +116,7 @@
                 <div style="color:White;   border: 2px white solid;"><a href="#top">back to top</a></div>
                 <a>放外面字可以變白
             -->
-            <center><a href="#top"><spam class="buttom" style="color:White;   border: 2px white solid;">back to top</spam></a></center>
+            <center><a href="#top"><spam class="buttom" style="color:White;   border: 2px white dashed;">back to top</spam></a></center>
         </b></div>
     </body>       
-</html>   
+</html>
